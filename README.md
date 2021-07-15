@@ -9,8 +9,11 @@ This is a programming challenge to architect a supply chain using blockchain. Th
 
 ### UML Diagrams
 activity_diagram.pdf
+
 sequence_diagram.pdf
+
 state_diagram.pdf
+
 class_diagram.pdf
 
 ### Libraries
