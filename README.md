@@ -15,8 +15,7 @@ All diagrams are in the UML folder
 - class_diagram.pdf
 
 ## Libraries
-Truffle Contract
-HDWalletProvider
+Np additional libraries were used.
 
 ## IPFS
 IPFS is used to display the website to interface with the smart contract.
