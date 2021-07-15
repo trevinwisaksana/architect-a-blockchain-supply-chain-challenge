@@ -1,5 +1,5 @@
 # Architect A Blockchain Supply Chain - Part B
-This is a programming challenge to architect a supply chain using blockchain. The goal is to build a tool to track an item from when it was first harvested to when it is first bought by a consumer. There are four 
+This is a programming challenge to architect a supply chain using blockchain. The goal is to build a tool to track an item from when it was first harvested, processed, packaged, sold to a distributor, shipped to a retailer to when it is first bought by a consumer.
  
 ## Contract Address
 0xb9D2db992432f2784F0835cc3CA6Ba4ecEF08200
