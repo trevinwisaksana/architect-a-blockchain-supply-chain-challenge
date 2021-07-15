@@ -8,6 +8,7 @@ This is a programming challenge to architect a supply chain using blockchain. Th
 0x7513083a1bff7beca25694c488072c8bcc8bc5d17474341afaed75ca3c9a336d
 
 ### UML Diagrams
+All diagrams are in the UML folder
 - activity_diagram.pdf
 - sequence_diagram.pdf
 - state_diagram.pdf
@@ -18,7 +19,7 @@ Truffle Contract
 HDWalletProvider
 
 ### IPFS
-
+IPFS is used to display the website to interface with the smart contract.
 
 ### Node Version
 16.0.0
