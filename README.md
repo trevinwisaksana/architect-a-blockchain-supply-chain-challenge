@@ -1,5 +1,5 @@
 # Architect A Blockchain Supply Chain - Part B
-This is a programming challenge to architect a supply chain using blockchain. The goal is to build a tool to track an item from when it was first harvested, processed, packaged, sold to a distributor, shipped to a retailer to when it is first bought by a consumer.
+This is a programming challenge to architect a supply chain using blockchain. The goal is to build a tool to track an item from when it was first harvested, processed, packaged, sold to a distributor, shipped to a retailer and finaly, to when it is first bought by a consumer. It has a website as a frontend that interfaces with the smart contracts to mark items as its state changes.
  
 ## Contract Address
 0xb9D2db992432f2784F0835cc3CA6Ba4ecEF08200
@@ -18,7 +18,7 @@ All diagrams are in the UML folder
 Np additional libraries were used.
 
 ## IPFS
-IPFS is used to display the website to interface with the smart contract.
+IPFS is not used in this project although attempts were made to store the frontend on it. However, there were issues with getting it uploaded as the file seems missing as it gives a 504 error code.
 
 ## Node Version
 16.0.0
