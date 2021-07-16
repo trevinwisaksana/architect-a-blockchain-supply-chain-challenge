@@ -1,5 +1,19 @@
 # Architect A Blockchain Supply Chain - Part B
 This is a programming challenge to architect a supply chain using Soldity and Web3 library for the Ethereum network. The goal is to build a tool to track an item from when it was first harvested, processed, packaged, sold to a distributor, shipped to a retailer and finaly, to when it is first bought by a consumer. It has a website as a frontend that interfaces with the smart contracts to mark items as its state changes.
+
+## Instructions
+To build and run this project locally run these commands in the terminal
+1. `npm install`
+2. `truffle develop`
+3. `truffle migrate --reset`
+4. `npm run dev`
+5. Open the website on http://localhost:8080/
+
+To run this project on Rinkeby
+1. `npm install`
+2. `npm run dev`
+3. Open the website on http://localhost:8080/
+4. Connect your Metamask to the website (Rinkeby network must be selected)
  
 ## Contract Address
 0xb9D2db992432f2784F0835cc3CA6Ba4ecEF08200
