@@ -3,17 +3,19 @@ This is a programming challenge to architect a supply chain using Soldity and We
 
 ## Instructions
 To build and run this project locally run these commands in the terminal
-1. `npm install`
-2. `truffle develop`
-3. `truffle migrate --reset`
-4. `npm run dev`
-5. Open the website on http://localhost:8080/
+1. `cd` or change directory to the root of the project folder
+2. `npm install`
+3. `truffle develop`
+4. `truffle migrate --reset`
+5. `npm run dev`
+6. Open the website on http://localhost:8080/
 
 To run this project on Rinkeby
-1. `npm install`
-2. `npm run dev`
-3. Open the website on http://localhost:8080/
-4. Connect your Metamask to the website (Rinkeby network must be selected)
+1. `cd` or change directory to the root of the project folder
+2. `npm install`
+3. `npm run dev`
+4. Open the website on http://localhost:8080/
+5. Connect your Metamask to the website (Rinkeby network must be selected)
  
 ## Contract Address
 0xb9D2db992432f2784F0835cc3CA6Ba4ecEF08200
